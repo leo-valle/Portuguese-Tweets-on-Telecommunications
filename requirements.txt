@@ -1,0 +1,15 @@
+pandas
+matplotlib
+seaborn
+scikit-learn
+gensim
+sentence-transformers
+transformers
+datasets
+torch
+fasttext-wheel
+nltk
+tensorflow
+imbalanced-learn
+joblib
+emoji
