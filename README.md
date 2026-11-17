@@ -35,7 +35,7 @@ The baselines compare classical machine learning models, neural networks, and pr
 
 ### Collection
 
-Data were collected through the official Twitter/X API between **29 September and 1 December 2025**. The search was guided by a set of keywords aimed at network failures and connectivity problems (see [`queries/`](queries/)).
+Data were collected through the official Twitter/X API between **29 September and 1 December 2025**. The search was guided by a set of keywords aimed at network failures and connectivity problems.
 
 | Step | Messages |
 |---|---|
@@ -78,10 +78,6 @@ Both tasks were annotated by two annotators using a consensus-based approach: la
 ### Ethics and Privacy
 
 The dataset contains only publicly available messages. The study focuses on the textual content and labels, not on user identities.
-
-### License
-
-[CC0 (public domain), as planned for the Kaggle release. Confirm before publishing.]
 
 ## Baseline Experiments
 
